@@ -1,13 +1,11 @@
-—-
-title: Sushi Bake
-date-created: 2020-04-22
-—-
+# Sushi Bake
+Date: 2020-04-22
 
-# Equipment
+### Equipment
 
 * 9x13in Baking Dish
 
-# Ingredients
+### Ingredients
 
 * 3 cups cooked white rice
 * furikake seasoning
@@ -31,7 +29,7 @@ date-created: 2020-04-22
 * sriacha mayo
 * avocado, sliced
 
-# Instructions
+### Instructions
 
 1. Preheat oven to 450deg F
 2. **Make the salmon topping** Mix together salmon, mayonaise, and soysauce. Season with salt and pepper to taste. Set aside.
@@ -41,10 +39,12 @@ date-created: 2020-04-22
 6. **Bake the salmon side** Remove tent, spread salmon mixture on other half of rice. Return to oven and bake another 10 minutes or until salmon is lightly browned.
 7. **Serve** Garnish with furikake, and serve with roasted seaweed, sriracha mayo, and/or avocado.
 
-Additional Notes:
-* We like variety, and you can double either topping if you only wanted to make one. 
-* Instead of salmon, you can use crab meat, cooked shrimp, tuna or a combination, go nuts
 
-Future experiments:
+
+__Additional Notes:__
+* We like variety, and you can double either topping if you only wanted to make one, only the spam side needs to cook for 20 minutes.
+* Instead of salmon, you can use crab meat, cooked shrimp, tuna or a combination, go nuts. These should only need 10 minutes of baking.
+
+__Future experiments:__
 * Tamagoyaki topping for spam sides
 * Butter the rice before assembly, extra umami and hoping it’ll crust on the bottom like tah dig (persian rice).
